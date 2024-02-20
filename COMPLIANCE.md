@@ -1,6 +1,6 @@
 # Compliance Statement for CARES Documentation
 
-This repository hosts documentation and resources related to the Cardiac Arrest Registry to Enhance Survival (CARES) as managed by Seven Mountains EMS Council. These documents are intended for use by licensed and CARES-contributing EMS agencies within the Commonwealth of Pennsylvania under the governance of the Seven Mountains EMS Council and the Pennsylvania CARES Coordinator.
+This repository hosts documentation and resources related to the Pennsylvania Cardiac Arrest Registry to Enhance Survival (CARES) as managed by Seven Mountains EMS Council. These documents are intended for use by licensed and CARES-contributing EMS agencies within the Commonwealth of Pennsylvania under the governance of the Seven Mountains EMS Council and the Pennsylvania CARES Coordinator.
 
 ## Legal Compliance: 
 
