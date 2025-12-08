@@ -1,6 +1,6 @@
-# ❤️ Pennsylvania CARES (myPACares.net)
+# ❤️ Pennsylvania CARES (myPACARES.net)
 
-Welcome to the official documentation and resource repository for the **Pennsylvania Cardiac Arrest Registry to Enhance Survival (PA CARES)** program, managed by the **Seven Mountains EMS Council**.
+Welcome to the official documentation and resource repository for the **Pennsylvania Cardiac Arrest Registry to Enhance Survival (PA CARES)** program, managed by the **Seven Mountains EMS Council** under the Coordination of **Gage Lyons-McCracken**.
 
 This repository provides essential resources, guides, and data dictionaries for EMS agencies and hospitals participating in the Pennsylvania CARES program, which is part of the national CDC-authorized CARES registry for public health surveillance and quality improvement.
 
@@ -53,6 +53,6 @@ The official reference for all data elements collected in the registry.
 
 ---
 
-*This repository is maintained by the Seven Mountains EMS Council on behalf of the Pennsylvania CARES Program. Content is subject to updates to reflect changes in protocol, law, and system functionality.*
+*This repository is maintained by the Seven Mountains EMS Council on behalf of the Pennsylvania CARES Program. in conjunction with the Pennsylvania Department of Health, Bureau of EMS. Content is subject to updates to reflect changes in protocol, law, and system functionality.*
 
 > © 2025 Seven Mountains EMS Council (on behalf of the Pennsylvania CARES Program). This documentation is licensed under CC BY-NC-ND 4.0.
