@@ -40,6 +40,29 @@ The official reference for all data elements collected in the registry.
 ### 4. 🛟 **Job Aids & Quick Guides**
 *Coming Soon!* This section will host quick-reference guides, cheat sheets, and flowcharts for common tasks.
 
+## 📂 File Structure
+
+```
+1. Repository Structure:
+mypacares-infrastructure/
+├── core-stack/                # WordPress + Portainer + Caddy
+│   ├── docker-compose.yml
+│   ├── .env.example
+│   └── configs/
+├── tools-stack/               # Planka + future tools
+│   ├── docker-compose.yml
+│   ├── .env.example
+│   └── configs/
+├── scripts/                   # Automation scripts
+│   ├── deploy.sh
+│   ├── backup.sh
+│   └── restore.sh
+├── docs/                      # Documentation
+│   ├── setup.md
+│   └── procedures.md
+└── README.md
+```
+
 ## 🔗 Related Resources & Compliance
 
 - **[COMPLIANCE.md](./COMPLIANCE.md)**: The full compliance statement detailing legal adherence (HIPAA, PA Act 37), data security, authorized use, and ethical standards for the PA CARES program.
